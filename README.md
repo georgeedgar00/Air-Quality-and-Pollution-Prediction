@@ -1,0 +1,1 @@
+This model addresses environmental and public health needs by predicting air quality levels. It aims to provide accurate air quality assessments to help governments, researchers, and the public make informed decisions about environmental policies, health precautions, and urban planning.
